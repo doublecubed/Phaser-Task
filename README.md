@@ -7,6 +7,6 @@ The spin works, but the win condition does not. My plan was to put the fruit ord
 
 The problem that the spin currently has is; based on the length of random time, the spin tween tends to drift. The drift starts to be noticeable after the third or fourth spin. It increases as the "random interval" increases.
 
-The project is not complete by any means, but I still wanted to send it your way. Thank you for taking the time to check it out :)
+The project is not complete by any means, but I still wanted to put it out there. Thank you for taking the time to check it out :)
 
 - Onur Ereren
